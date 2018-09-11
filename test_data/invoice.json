@@ -1,0 +1,14 @@
+{
+  "purchase_date": "2017-02-20",
+  "due_date": "2017-03-20",
+  "date": "2017-03-20",
+  "name": "Joe Doe",
+  "total": "20 $",
+  "action_url": "http://gnu.org",
+  "suppport_url": "http://gnu.org",
+  "invoice_id": "foobar-42",
+  "invoice_details": [
+    { "description" :"Emacs", "amount": "12 $" },
+    { "description" :"Vim", "amount": "8 $" }
+  ]
+}
