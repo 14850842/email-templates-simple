@@ -1,0 +1,19 @@
+{
+  "preheader": "This is a receipt for your recent purchase on {{ purchase_date }}. No payment is due with this receipt.",
+  "name": "John Doe",
+  "credit_card_last_four": "1234",
+  "discount": {
+    "active": true,
+    "url": "https://emailwizard.io",
+    "expiration_date": "2019-02-12"
+  },
+  "invoice_details": [
+    { "description" :"Emacs", "amount": "12 $" },
+    { "description" :"Vim", "amount": "8 $" }
+  ],
+  "date": "2019-02-12",
+  "total": "20 $",
+  "receipt_id": "Rec-1234",
+  "action_url": "https://emailwizard.io",
+  "support_url": "https://emailwizard.io"
+}

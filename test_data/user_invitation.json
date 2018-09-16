@@ -1,0 +1,10 @@
+{
+  "preheader": "Someone invited you to check out [Product Name]",
+  "name": "John Doe",
+  "invite_sender_name": "Bill Foo",
+  "invite_sender_organization_name": "Bill Foo Organization",
+  "action_url": "https://emailwizard.io",
+  "help_url": "https://emailwizard.io",
+  "live_chat_url": "https://emailwizard.io",
+  "support_email": "support@example.org"
+}

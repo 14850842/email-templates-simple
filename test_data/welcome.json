@@ -1,0 +1,16 @@
+{
+  "preheader": "Thanks for trying out [Product Name]. We’ve pulled together some information and resources to help you get started.",
+  "name": "John Doe",
+  "action_url": "https://emailwizard.io",
+  "login_url": "https://emailwizard.io",
+  "username": "John Doe",
+  "trial": {
+    "active": true,
+    "length": "30 days",
+    "start_date": "2019-02-01",
+    "end_date": "2019-03-01"
+  },
+  "help_url": "https://emailwizard.io",
+  "live_chat_url": "https://emailwizard.io",
+  "support_email": "support@example.org"
+}

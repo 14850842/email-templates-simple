@@ -1,0 +1,8 @@
+{
+  "preheader": "Your trial period for [Product Name] is about expired. Is there anything we can do to help?",
+  "action_url": "https://emailwizard.io",
+  "trial_extension_url": "https://emailwizard.io",
+  "feedback_url": "https://emailwizard.io",
+  "close_account_url": "https://emailwizard.io",
+  "export_url": "https://emailwizard.io"
+}

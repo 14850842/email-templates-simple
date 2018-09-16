@@ -1,4 +1,8 @@
 {
   "preheader": "",
-  "attachment_details": {}
+  "body": "There is new comment on your article",
+  "attachment_details": [
+    { "url": "https://emailwizard.io", "name": "Sample file", "size": "123 Mb", "type": "mp4" },
+    { "url": "https://emailwizard.io", "name": "Another sample file", "size": "523 Mb", "type": "mp4" }
+  ]
 }
